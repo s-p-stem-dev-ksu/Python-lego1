@@ -8,6 +8,6 @@ while True:
   lights.set_color("LEFT", "AMBER")
   lights.set_color("RIGHT", "AMBER")
   time.sleep(1)
-  ights.set_color("LEFT", "GREEN")
+  lights.set_color("LEFT", "GREEN")
   lights.set_color("RIGHT", "GREEN")
   time.sleep(1)
