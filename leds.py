@@ -4,5 +4,4 @@ leds = Leds()
 while True:
   leds.set_color("RIGHT", "RED")
   time.sleep(1)
-  leds.set_color("LEFT", "AMBER")
-  
+  leds.set_color("RIGHT", "GREEN")
